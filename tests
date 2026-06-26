@@ -1,1 +1,13 @@
+## Test Case 2: Verify that incorrect overtime hours are flagged
+
+**Precondition:** Site Manager enters incorrect overtime.
+
+**Steps:**
+1. Log in as a Site Manager.
+2. Enter incorrect overtime hours (e.g., 100 hours).
+3. Generate payroll.
+4. View the payslip.
+
+**Expected Result:** The system should flag the incorrect overtime hours and alert the Site Manager.
+
 
