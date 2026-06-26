@@ -1,1 +1,10 @@
+## Test Case 1: Verify that a worker can view their payslip after entering attendance
 
+**Precondition:** Worker is onboarded.
+
+**Steps:**
+1. Log in as a worker.
+2. Navigate to the payslip section.
+3. Check if the payslip displays correctly.
+
+**Expected Result:** Payslip is displayed with accurate data.
